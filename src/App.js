@@ -9,7 +9,7 @@ function App() {
         <p>
           Hello I'm a React App!!!
         </p>
-        <p>I'm changing again and again!!</p>
+        <p>I was changed on feature/new!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
